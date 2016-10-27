@@ -10,6 +10,7 @@ namespace main
     {
         static void Main(string[] args)
         {
+            string name = "123";
         }
     }
 }
